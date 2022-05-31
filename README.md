@@ -3,13 +3,6 @@
 
 This is the first in the repos.
 
+##Website Content
 
-
-
-##Ipsm Below
-
-
-Hi I'm Rahul.
-
-
-I'm from Mysuru and currently working at Ribbon Communication.
+1.index.html
